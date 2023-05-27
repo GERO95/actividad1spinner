@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">actividad1spinner</string>
+    <string name="tvTituloString">Selecciona una fruta.</string>
+</resources>
